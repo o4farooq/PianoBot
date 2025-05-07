@@ -24,7 +24,7 @@ PianoBot is an autonomous, LEGO-based robot capable of playing piano keys by int
 
 - **SolidWorks / AutoCAD** – Design and modeling of structural components  
 - **Arduino (UNO R4)** – Microcontroller for sensor input and motor control  
-- **C++ / ROBOTC** – Codebase for logic and motion control  
+- **C++ / ROBOTC** – Codebase for logic and precise motion control  
 - **3D Printing / Laser Cutting** – Manufacturing of custom-designed robot parts  
 
 ## 🧠 Team & Purpose
