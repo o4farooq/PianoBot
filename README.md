@@ -31,17 +31,6 @@ PianoBot is an autonomous, LEGO-based robot capable of playing piano keys by int
 
 This project was developed by a team of three second-year Mechanical Engineering students at the **University of Waterloo** as part of a robotics design challenge. The focus was on blending hardware design, motion control, and sensor feedback in a compact and functional prototype.
 
-## 📂 Project Structure
-
-PianoBot/
-├── README.md
-├── main.cpp (or .ino)
-├── CAD_Files/
-│   ├── finger.SLDPRT
-│   ├── mount.SLDPRT
-├── images/
-│   ├── pianobot_assembled.jpg
-
 
 ## 🔗 License
 
